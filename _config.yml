@@ -1,0 +1,3 @@
+# _config.yml - Simple configuration for GitHub Pages
+include:
+  - templates
